@@ -92,6 +92,9 @@
         margin-top: 2rem;
     }
 
+    .frame{
+        display: none;
+    }
    /* body{
         padding: 0;
     }*/
